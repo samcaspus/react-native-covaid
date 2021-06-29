@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Covaid",
+    "icon": "./assets/logo.png",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.trycatchlabs.covaid",
+      "versionCode": 1
+    }
+  }
+}
